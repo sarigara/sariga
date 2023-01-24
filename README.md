@@ -1,2 +1,4 @@
 # sariga
-repo first
+tis is  first repo
+this is first commit
+
